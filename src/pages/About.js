@@ -1,4 +1,4 @@
-const { Component } = require("react/cjs/react.production.min");
+import { Component } from "react";
 
 class About extends Component {
   state = {
